@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kotlin/appplant/app/src/main/res/layout/activity_lognin.xml" value="0.11302083333333333" />
+        <entry key="..\:/kotlin/appplant/app/src/main/res/layout/activity_main.xml" value="0.12287999625000012" />
+        <entry key="..\:/kotlin/appplant/app/src/main/res/layout/activity_man2.xml" value="0.1539855072463768" />
+        <entry key="..\:/kotlin/appplant/app/src/main/res/layout/activity_man3.xml" value="0.1539855072463768" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
