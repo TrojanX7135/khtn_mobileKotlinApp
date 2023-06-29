@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Android_project"
+
+rootProject.name = "FinalExamAndroidKotlin"
 include ':app'

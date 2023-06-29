@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginEnd="20dp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/banner"
+        android:scaleType="center"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#851A1A1A"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:orientation="vertical"
+        android:gravity="start"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:id="@+id/textCategoryItemPlant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_plants"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/color_text_light"/>
+        <TextView
+            android:id="@+id/textNumberCategoryItemPlant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_68_types_of_plants"
+            android:textColor="@color/color_text_light"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
