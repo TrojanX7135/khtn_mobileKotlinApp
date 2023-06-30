@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color_bg">#EEF1F4</color>
+    <color name="color_bg_item_plant_1">#FAFCFE</color>
+    <color name="color_bg_item_plant_2">#E1E1DC</color>
+    <color name="color_heart">#FF3300</color>
+    <color name="color_icon_bottom_selected">#2DDA93</color>
+    <color name="color_icon_bottom_unselected">#D2D2D2</color>
+    <color name="color_primary">#2DDA93</color>
+    <color name="color_tab_selected">#5AABF5</color>
+    <color name="color_text_dark">#1F2630</color>
+    <color name="color_text_hint">#DDDDDD</color>
+    <color name="color_text_light">#FFFFFF</color>
+    <color name="color_text_normal">#615C5C</color>
+    <color name="color_text_tag">#5AABF5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_68_types_of_plants">68 Types of plants</string>
+    <string name="add">Add</string>
+    <string name="adding_new">Adding new</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="app_name">FinalExamAndroidKotlin</string>
+    <string name="articles">articles</string>
+    <string name="articles_table">Articles</string>
+    <string name="avatar_user_articles_1"><![CDATA[https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80]]></string>
+    <string name="avatar_user_articles_2"><![CDATA[https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80]]></string>
+    <string name="boarding_image_description">BoardingImage</string>
+    <string name="confirm_delete_item">Confirm delete!</string>
+    <string name="content_articles_1">David Austin, a self-taught horticulturist who upended the rose market by creating more than 200 hybrids that were distinguished by their broad color range, ambrosial fragrances and multiple annual blooms, died on Dec. 18 at his home in Albrighton, in Shropshire County, England. He was 92.
+
+His company, David Austin Roses, announced the death but did not specify the cause.
+
+Mr. Austin spent six decades obsessively pursuing his ideal of what a rose could be by developing varieties that combined the fragrances of the so-called old roses that he adored — but that had largely disappeared from modern gardens — with the rich palette and repeat flowerings of the stiff and lightly scented hybrid teas and floribundas that had long become dominant in nurseries, flower shops and home vases.</string>
+    <string name="content_articles_2">Midsize and large cities usually have flower markets that sell a large variety of plants and flowers from around the world. Ms. Ellis highly recommended visiting one. “You’ll be treated to different smells and colors,” she said. “Leisurely stroll through and let your senses be engaged.” Know that most open early — in New York’s cluster of flower markets, in Chelsea, for example, shops are typically open before 6 a.m. The earlier you go, the quieter it will be.</string>
+    <string name="content_boarding_one">You can identify plants you do not know through your camera</string>
+    <string name="content_boarding_three">Let\'s learn more about beautiful plants and read many articles about plants and gardening</string>
+    <string name="content_boarding_two">Let\'s learn about the many plant species that exist in the world</string>
+    <string name="default_web_client_id" translatable="false">692857221781-eik5kugtfa1lkntnm1hettf6sn5brb8t.apps.googleusercontent.com</string>
+    <string name="description">description</string>
+    <string name="do_you_want_to_delete">Do you want to delete </string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="email">Email</string>
+    <string name="email_sent">Email sent</string>
+    <string name="err_email_format">Email invalidate!</string>
+    <string name="err_get_data">Connection error, cannot display data!</string>
+    <string name="err_null">Please complete all information!</string>
+    <string name="err_password_format">Password must have 11 characters containing lowercase letters, uppercase letters, special characters and numbers!</string>
+    <string name="family">family</string>
+    <string name="firebase_database_url" translatable="false">https://doanandroid-36b5f-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">692857221781</string>
+    <string name="google_api_key" translatable="false">AIzaSyAN5ZBhN7vmXGg-165ubkNaeep-Jv1Xxo8</string>
+    <string name="google_app_id" translatable="false">1:692857221781:android:1807c6511cfd7a1e69e19c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAN5ZBhN7vmXGg-165ubkNaeep-Jv1Xxo8</string>
+    <string name="google_storage_bucket" translatable="false">doanandroid-36b5f.appspot.com</string>
+    <string name="ha_noi_viet_nam">Ha Noi, Viet Nam</string>
+    <string name="hello">Hello</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="home_plants">Home Plants</string>
+    <string name="kingdom">kingdom</string>
+    <string name="link_image_articles_1"><![CDATA[https://static01.nyt.com/images/2018/12/29/obituaries/29AUSTIN-OBIT1/merlin_148516026_24d5cc39-cabc-4f50-8507-bd98278f5a3e-jumbo.jpg?quality=75&auto=webp]]></string>
+    <string name="link_image_articles_2">https://share-cdn-prod.azureedge.net/wp-content/uploads/2016/04/tomatoes-web.jpg.webp</string>
+    <string name="login">login</string>
+    <string name="message_camera_permission">You must grant Camera access to perform this action!</string>
+    <string name="message_delete_successful">Delete item successful!</string>
+    <string name="message_insert_success">Insert successful!</string>
+    <string name="next">next</string>
+    <string name="password">Password</string>
+    <string name="photography">Photography</string>
+    <string name="plant_description_1">Some species of barrel cactus reach over 1 metre (3.3 ft) in height at maturity, and have been known to reach 3 metres (9.8 ft) in some regions. The ribs are numerous and pronounced, and the spines are long and can range in color from yellow to tan to red, depending on the age of the plant and the species. Flowers appear at the top of the plant only after many years. The barrel cactus can live to be over 100 years old.
+
+Barrel cactus buds typically start to bloom in April with a bright yellow or orange flower. Pink and red varieties also exist but occur less frequently. The flowers only appear on the very top of the plant. As the flowers begin to wilt in early May, they may change color. A late summer desert rainstorm can produce a late bloom, as shown in the photograph below of the orange-flowered variety (it bloomed two days after a hurricane in mid-August and continued to bloom through the end of September).</string>
+    <string name="plant_image_1">https://upload.wikimedia.org/wikipedia/commons/0/0d/Echinocactus_grusonii_1.jpg</string>
+    <string name="plant_name_1">Barrel cactus</string>
+    <string name="plantae">Plantae</string>
+    <string name="plants_type">Plants Type</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">doanandroid-36b5f</string>
+    <string name="remember_me">Remember me</string>
+    <string name="search_for_plants">Search For Plants</string>
+    <string name="search_for_species">Search for Species</string>
+    <string name="send_email">Send email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="species">species</string>
+    <string name="species_table">Species</string>
+    <string name="tag_image">Tag image</string>
+    <string name="text_title_forget_password">Reset link will be send your email</string>
+    <string name="text_title_login">Let\'s learn more about plants</string>
+    <string name="text_title_sign_up">Register an account</string>
+    <string name="title_articles_1">David Austin, Who Breathed Life Into the Rose, Is Dead at 92</string>
+    <string name="title_articles_2">Even on Urban Excursions, Finding Mother Nature\'s Charms</string>
+    <string name="title_boarding_one">Identity Plants</string>
+    <string name="title_boarding_three">Read Many Articles About Plant</string>
+    <string name="title_boarding_two">Learn Many Plants Species</string>
+    <string name="user_name">User name</string>
+    <style name="Base.Theme.FinalExamAndroidKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FinalExamAndroidKotlin" parent="Base.Theme.FinalExamAndroidKotlin"/>
+</resources>

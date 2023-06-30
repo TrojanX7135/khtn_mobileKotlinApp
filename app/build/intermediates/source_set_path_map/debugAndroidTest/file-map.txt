@@ -1,0 +1,9 @@
+com.example.finalexamandroidkotlin.test.app-core-1.5.0-0 C:\Users\dell\.gradle\caches\transforms-3\39a70df2851461ae354a8737b3174468\transformed\core-1.5.0\res
+com.example.finalexamandroidkotlin.test.app-annotation-experimental-1.3.0-1 C:\Users\dell\.gradle\caches\transforms-3\3da9811af0e8dd7ffaad5ca6c413592f\transformed\annotation-experimental-1.3.0\res
+com.example.finalexamandroidkotlin.test.app-androidTest-2 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\build\generated\res\resValues\androidTest\debug
+com.example.finalexamandroidkotlin.test.app-androidTest-3 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\build\generated\res\rs\androidTest\debug
+com.example.finalexamandroidkotlin.test.app-mergeDebugAndroidTestResources-4 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.finalexamandroidkotlin.test.app-mergeDebugAndroidTestResources-5 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.finalexamandroidkotlin.test.app-merged_res-6 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\build\intermediates\merged_res\debugAndroidTest
+com.example.finalexamandroidkotlin.test.app-androidTest-7 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\src\androidTest\res
+com.example.finalexamandroidkotlin.test.app-androidTestDebug-8 D:\Download\FinalExamAndroidKotlin_bk\FinalExamAndroidKotlin\FinalExamAndroidKotlin\app\src\androidTestDebug\res
