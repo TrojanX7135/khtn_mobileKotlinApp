@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="20dp"
+    app:cardCornerRadius="21dp"
+    android:layout_marginBottom="20dp"
+    android:id="@+id/itemArticles">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageArticlesItem"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/item_phot"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="David Austin, Who Breathed Life Into the Rose, Is Dead at 92"
+            android:layout_margin="10dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/color_text_dark"
+            android:id="@+id/textArticlesItemTitle"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginBottom="10dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/avatar"
+                android:id="@+id/avatarUserArticlesItem"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_vertical"
+                android:layout_marginStart="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="User name"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:textColor="@color/color_text_dark"
+                    android:id="@+id/textUserNameArticles"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2019. 01. 01"
+                    android:textSize="16sp"
+                    android:textStyle="italic"
+                    android:id="@+id/textDateArticlesItem"/>
+
+            </LinearLayout>
+            
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/icon_un_save"
+                android:layout_marginHorizontal="10dp"
+                android:id="@+id/iconStatusSaveArticles"
+                app:tint="@color/color_text_hint" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/icon_un_like"
+                android:id="@+id/iconStatusHeartArticles"
+                app:tint="@color/color_text_hint" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
