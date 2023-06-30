@@ -1,19 +1,19 @@
-#Fri Jun 30 14:19:21 ICT 2023
-base.0=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.10=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.11=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.12=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.13=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.14=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.2=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.4=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
-base.5=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.6=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.7=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.8=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.9=D\:\\Download\\FinalExamAndroidKotlin_bk\\FinalExamAndroidKotlin\\FinalExamAndroidKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+#Fri Jun 30 22:25:24 ICT 2023
+base.0=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.11=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.12=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.13=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.14=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.4=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.5=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.6=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.7=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.8=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.9=F\:\\doan_android\\android_k19_group7\\khtn_mobileKotlinApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=5/classes.dex

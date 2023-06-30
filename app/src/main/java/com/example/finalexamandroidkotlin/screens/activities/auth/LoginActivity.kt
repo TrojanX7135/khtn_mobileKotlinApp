@@ -53,7 +53,13 @@ class LoginActivity : AppCompatActivity() {
 
     private fun checkUserRememberAccount(): Unit {
         val user = UserDatabase.getInstance(this@LoginActivity).userDAO().getUserCurrentAccount()
+        /*
+        lấy dữ liệu đã lưu sẵn gán vào biến user
+            - Nêu có dữ liệu user không null và trước đó người dùng tick vào remember me
+                thì set hiển thị email và pw đã có sẵn bằng setText và nút tick remember me sáng
+            - Ngược lại, nếu không có dữ liêu thì setText cho hiển thị là rỗng và nút remember me tắt
 
+         */
         if (user != null && user!!.isRemember) {
             binding.inputEmail.setText(user.email)
             binding.inputPass.setText(user.password)

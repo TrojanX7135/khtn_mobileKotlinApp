@@ -168,20 +168,20 @@ class Species3Fragment : Fragment() {
         }
     }
 
-    override fun onResume() {
-        super.onResume()
-
-        getObjectCurrent()
-        binding.progressBar.visibility = View.VISIBLE
-        binding.layoutMain.visibility = View.GONE
-
-        Handler().postDelayed(object: Runnable{
-            override fun run() {
-                binding.progressBar.visibility = View.GONE
-                binding.layoutMain.visibility = View.VISIBLE
-                setData()
-            }
-
-        }, 2000);
-    }
+//    override fun onResume() {
+//        super.onResume()
+//
+//        getObjectCurrent()
+//        binding.progressBar.visibility = View.VISIBLE
+//        binding.layoutMain.visibility = View.GONE
+//
+//        Handler().postDelayed(object: Runnable{
+//            override fun run() {
+//                binding.progressBar.visibility = View.GONE
+//                binding.layoutMain.visibility = View.VISIBLE
+//                setData()
+//            }
+//
+//        }, 2000);
+//    }
 }

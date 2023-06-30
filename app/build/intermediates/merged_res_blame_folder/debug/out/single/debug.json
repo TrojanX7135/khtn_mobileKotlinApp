@@ -1,290 +1,286 @@
 [
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_book.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_book.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_three.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_three.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_back.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_back.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_user.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_user.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_home.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_home.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_tab_un_select.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_tab_un_select.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_saved.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_saved.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_articles1.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles1.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_species.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_species.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_home.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_boarding.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_boarding.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_species2.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species2.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_forget_pass.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_forget_pass.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_item_phot.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/item_phot.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_login.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_home.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_home.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_item_top.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_item_top.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_item_tag_articles.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_item_tag_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_avatar.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\avatar.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_item_top.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_item_top.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_banner.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\banner.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_home.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_photo.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_one.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_one.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_three.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_three.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_back.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_back.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_image_like.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\image_like.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_book.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_book.png"
+    },
+    {
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_home.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_home.xml"
     },
     {
         "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_camera.xml.flat",
         "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_camera.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_activity_indicator.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_activity_indicator.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_container_image_plant_item.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_container_image_plant_item.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_un_save.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_un_save.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_add.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_add.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_add.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_add.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_item_photo.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_articles2.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles2.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_searc.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_searc.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_plant.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_plant.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_species3.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species3.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_liked.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_liked.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_location.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_location.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_plants_type.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_plants_type.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_text_item_photo.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_text_item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\xml\\backup_rules.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_banner.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/banner.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_two.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_two.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_container_image_plant_item.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_container_image_plant_item.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_login.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_profile.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_profile.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_avatar.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/avatar.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_species1.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species1.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_articles2.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles2.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_clear.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_clear.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_tag_articles.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_tag_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_text_item_photo.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_text_item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_camera.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_camera.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_tab_un_select.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_tab_un_select.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_camera.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_camera.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_forget_pass.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_forget_pass.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_dialog_item_photo.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/dialog_item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_tab_selected.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_tab_selected.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_home.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_un_like.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_un_like.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_species2.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species2.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_species.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_species.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_search.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_search.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_articles.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_un_save.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_un_save.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_saved.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_saved.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_species.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_species.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_species.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_species.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_camera.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_camera.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_species.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_un_like.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_un_like.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_image_like.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/image_like.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_one.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_one.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_plants_type.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_plants_type.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_species.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_location.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_location.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_add.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_add.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_liked.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_liked.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_image_unlike.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\image_unlike.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_photo.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_searc.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_searc.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_item_articles.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_activity_indicator.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_activity_indicator.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_tag_articles.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_tag_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_two.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_two.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_sign_up.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_species3.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species3.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_dialog_item_photo.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\dialog_item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_logo.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/logo.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_icon_user.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\icon_user.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_activity_add.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_add.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_item_tag_articles.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_item_tag_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_item_phot.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\item_phot.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_search.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_search.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_logo.png.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\logo.png"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_bg_tab_selected.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/bg_tab_selected.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_articles1.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles1.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_articles.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_fragment_species1.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species1.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/layout_fragment_profile.xml.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_plant.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_plant.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_icon_clear.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/icon_clear.png"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\drawable_bg_item_photo.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\drawable\\bg_item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_item_articles.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_articles.xml"
-    },
-    {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\layout_activity_boarding.xml.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_boarding.xml"
-    },
-    {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.finalexamandroidkotlin.app-merged_res-47:/drawable_image_unlike.png.flat",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/drawable/image_unlike.png"
     }
 ]

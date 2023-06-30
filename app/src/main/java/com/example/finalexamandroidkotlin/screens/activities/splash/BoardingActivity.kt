@@ -37,7 +37,7 @@ class BoardingActivity : AppCompatActivity() {
             .appDAO()
             .getApp();
 
-        if (app != null && !app.isFirstInstallApp) {
+        if (app != null && app.isFirstInstallApp) {
             Log.d("Tag_First_Install_App", "False")
             startActivity(Intent(this, LoginActivity::class.java))
             finish()
@@ -83,7 +83,7 @@ class BoardingActivity : AppCompatActivity() {
         finish()
 
         // luu ket qua da tai app
-        val app: App = App(false)
+        val app: App = App(true)
         AppDatabase
             .getInstance(this)
             .appDAO()

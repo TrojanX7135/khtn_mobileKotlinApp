@@ -102,7 +102,7 @@ class Species1Fragment : Fragment() {
         }
     }
 
-    private fun genIdAuto(): String = UUID.randomUUID().toString()
+    //private fun genIdAuto(): String = UUID.randomUUID().toString()
 
     private fun getData() {
         dbRef.child(resources.getString(R.string.species_table))

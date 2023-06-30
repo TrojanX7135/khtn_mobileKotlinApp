@@ -1,110 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_add.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_add.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_add.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_add.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_articles1.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles1.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_species2.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species2.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_home.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_boarding.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_boarding.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_articles.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_articles1.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles1.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_species1.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species1.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_three.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_three.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_species.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_species.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_species.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_articles2.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles2.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_two.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_two.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_three.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_three.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_forget_pass.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_forget_pass.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_tag_articles.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_tag_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_profile.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_one.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_one.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_species.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species.xml"
     },
     {
         "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_camera.xml",
         "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_camera.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_home.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_home.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_photo.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\dialog_item_photo.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\dialog_item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_home.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_forget_pass.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_forget_pass.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_species3.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species3.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_articles.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_articles.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_articles.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_profile.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_plant.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_plant.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_species3.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species3.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_photo.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_photo.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_species1.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_species1.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_two.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_two.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_plants_type.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_plants_type.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_camera.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_camera.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_tag_articles.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_tag_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_login.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_articles2.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_articles2.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_species.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_species.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_sign_up.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_boarding.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_boarding.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/dialog_item_photo.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/dialog_item_photo.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\fragment_species2.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\fragment_species2.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/activity_login.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\activity_sign_up.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\activity_sign_up.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/item_articles.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/item_articles.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_plants_type.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_plants_type.xml"
-    },
-    {
-        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-mergeDebugResources-46:\\layout\\item_plant.xml",
-        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.5\\com.example.finalexamandroidkotlin.app-main-49:\\layout\\item_plant.xml"
+        "merged": "com.example.finalexamandroidkotlin.app-mergeDebugResources-46:/layout/fragment_one.xml",
+        "source": "com.example.finalexamandroidkotlin.app-main-49:/layout/fragment_one.xml"
     }
 ]

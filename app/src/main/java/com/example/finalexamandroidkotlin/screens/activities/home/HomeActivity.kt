@@ -86,13 +86,13 @@ class HomeActivity : AppCompatActivity() {
         binding.iconHome.setColorFilter(
             ContextCompat.getColor(
                 this, R.color.color_icon_bottom_selected
-            ), PorterDuff.Mode.SRC_IN
+            ),
         )
         binding.textHome.setTextColor(resources.getColor(R.color.color_icon_bottom_selected))
         binding.iconProfile.setColorFilter(
             ContextCompat.getColor(
                 this, R.color.color_icon_bottom_unselected
-            ), PorterDuff.Mode.SRC_IN
+            ),
         )
         binding.textProfile.setTextColor(resources.getColor(R.color.color_icon_bottom_unselected))
     }
@@ -101,13 +101,13 @@ class HomeActivity : AppCompatActivity() {
         binding.iconHome.setColorFilter(
             ContextCompat.getColor(
                 this, R.color.color_icon_bottom_unselected
-            ), PorterDuff.Mode.SRC_IN
+            ),
         )
         binding.textHome.setTextColor(resources.getColor(R.color.color_icon_bottom_unselected))
         binding.iconProfile.setColorFilter(
             ContextCompat.getColor(
                 this, R.color.color_icon_bottom_selected
-            ), PorterDuff.Mode.SRC_IN
+            ),
         )
         binding.textProfile.setTextColor(resources.getColor(R.color.color_icon_bottom_selected))
     }

@@ -122,44 +122,44 @@ class Species2Fragment : Fragment() {
         }
     }
 
-    private fun addData() {
-        list.clear()
-        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
-        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
-        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
-        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
+//    private fun addData() {
+//        list.clear()
+//        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
+//        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
+//        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
+//        list.add(Plant(genIdAuto(), resources.getString(R.string.plant_name_1), resources.getString(R.string.plant_image_1), getListTag(), null, randomDouble(), randomKingdom(), mSpecies, resources.getString(R.string.plant_description_1)))
+//
+//        for (plant in list) {
+//            dbRef.child("Plants").child(mSpecies!!.name.toString()).child(plant.id.toString()).setValue(plant)
+//        }
+//    }
 
-        for (plant in list) {
-            dbRef.child("Plants").child(mSpecies!!.name.toString()).child(plant.id.toString()).setValue(plant)
-        }
-    }
+//    private fun genIdAuto(): String = UUID.randomUUID().toString()
+//
+//    private fun getListTag(): MutableList<String> {
+//        val list: MutableList<String> = mutableListOf()
+//        for (i in 0 until randomInt()) {
+//            list.add("Tag $i")
+//        }
+//
+//        return list
+//    }
 
-    private fun genIdAuto(): String = UUID.randomUUID().toString()
+//    private fun randomInt(): Int {
+//        return Random.nextInt(1, 4)
+//    }
 
-    private fun getListTag(): MutableList<String> {
-        val list: MutableList<String> = mutableListOf()
-        for (i in 0 until randomInt()) {
-            list.add("Tag $i")
-        }
+//    private fun randomDouble(): Double {
+//        return Random.nextDouble(1.0, 5.0) // trả về một số ngẫu nhiên từ 1 đến 5 với step là một số thực
+//    }
 
-        return list
-    }
-
-    private fun randomInt(): Int {
-        return Random.nextInt(1, 4)
-    }
-
-    private fun randomDouble(): Double {
-        return Random.nextDouble(1.0, 5.0) // trả về một số ngẫu nhiên từ 1 đến 5 với step là một số thực
-    }
-
-    private fun randomKingdom(): String {
-        return if (randomInt() == 1) {
-            "FARM"
-        } else {
-            "HOME"
-        }
-    }
+//    private fun randomKingdom(): String {
+//        return if (randomInt() == 1) {
+//            "FARM"
+//        } else {
+//            "HOME"
+//        }
+//    }
 
     private fun getData() {
         dbRef.child("Plants").child(mSpecies!!.name.toString()).addValueEventListener(object: ValueEventListener{
@@ -187,12 +187,12 @@ class Species2Fragment : Fragment() {
         binding.rcv.adapter = adapter
     }
 
-    override fun onResume() {
-        super.onResume()
-
-        binding.rcv.visibility = View.GONE
-        binding.progressBar.visibility = View.VISIBLE
-
-        getObjectCurrent()
-    }
+//    override fun onResume() {
+//        super.onResume()
+//
+//        binding.rcv.visibility = View.GONE
+//        binding.progressBar.visibility = View.VISIBLE
+//
+//        getObjectCurrent()
+//    }
 }

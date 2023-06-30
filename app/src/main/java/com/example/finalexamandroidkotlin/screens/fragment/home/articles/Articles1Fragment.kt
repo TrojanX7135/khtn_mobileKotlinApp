@@ -155,79 +155,79 @@ class Articles1Fragment : Fragment() {
         layoutContainer.currentItem = homeActivity.flagArticles2Fragment
     }
 
-    private fun addDataIntoList() {
-        list.add(
-            Articles(
-                genIdAuto(),
-                resources.getString(R.string.title_articles_1),
-                resources.getString(R.string.content_articles_1),
-                resources.getString(R.string.link_image_articles_1),
-                resources.getString(R.string.avatar_user_articles_1),
-                "Shivani Vora",
-                "2019. 01. 01",
-                mutableListOf(),
-                mutableListOf(),
-                addTag(1)
-            )
-        )
-        list.add(
-            Articles(
-                genIdAuto(),
-                resources.getString(R.string.title_articles_2),
-                resources.getString(R.string.content_articles_2),
-                resources.getString(R.string.link_image_articles_2),
-                resources.getString(R.string.avatar_user_articles_2),
-                "Elizabeth",
-                "2019. 01. 01",
-                mutableListOf(),
-                mutableListOf(),
-                addTag(2)
-            )
-        )
-    }
+//    private fun addDataIntoList() {
+//        list.add(
+//            Articles(
+//                genIdAuto(),
+//                resources.getString(R.string.title_articles_1),
+//                resources.getString(R.string.content_articles_1),
+//                resources.getString(R.string.link_image_articles_1),
+//                resources.getString(R.string.avatar_user_articles_1),
+//                "Shivani Vora",
+//                "2019. 01. 01",
+//                mutableListOf(),
+//                mutableListOf(),
+//                addTag(1)
+//            )
+//        )
+//        list.add(
+//            Articles(
+//                genIdAuto(),
+//                resources.getString(R.string.title_articles_2),
+//                resources.getString(R.string.content_articles_2),
+//                resources.getString(R.string.link_image_articles_2),
+//                resources.getString(R.string.avatar_user_articles_2),
+//                "Elizabeth",
+//                "2019. 01. 01",
+//                mutableListOf(),
+//                mutableListOf(),
+//                addTag(2)
+//            )
+//        )
+//    }
 
-    private fun addDataIntoFirebase() {
-        for (i in 0 until list.size) {
-            list[i].id?.let {
-                database.child(resources.getString(R.string.articles_table)).child(it)
-                    .setValue(list[i])
-            }
-        }
-    }
+//    private fun addDataIntoFirebase() {
+//        for (i in 0 until list.size) {
+//            list[i].id?.let {
+//                database.child(resources.getString(R.string.articles_table)).child(it)
+//                    .setValue(list[i])
+//            }
+//        }
+//    }
 
-    private fun genIdAuto(): String = UUID.randomUUID().toString()
+   // private fun genIdAuto(): String = UUID.randomUUID().toString()
 
-    private fun addTag(flag: Int): MutableList<String> {
-        var list: MutableList<String> = mutableListOf()
-
-        when (flag) {
-            1 -> {
-                list.clear()
-                list.add("TagDemo 1")
-                list.add("TagDemo 2")
-            }
-
-            2 -> {
-                list.clear()
-                list.add("TagDemo 1")
-            }
-
-            3 -> {
-                list.clear()
-                list.add("TagDemo 1")
-                list.add("TagDemo 2")
-                list.add("TagDemo 3")
-            }
-
-            else -> {
-                list.clear()
-                list.add("TagDemo 1")
-                list.add("TagDemo 2")
-            }
-        }
-
-        return list
-    }
+//    private fun addTag(flag: Int): MutableList<String> {
+//        var list: MutableList<String> = mutableListOf()
+//
+//        when (flag) {
+//            1 -> {
+//                list.clear()
+//                list.add("TagDemo 1")
+//                list.add("TagDemo 2")
+//            }
+//
+//            2 -> {
+//                list.clear()
+//                list.add("TagDemo 1")
+//            }
+//
+//            3 -> {
+//                list.clear()
+//                list.add("TagDemo 1")
+//                list.add("TagDemo 2")
+//                list.add("TagDemo 3")
+//            }
+//
+//            else -> {
+//                list.clear()
+//                list.add("TagDemo 1")
+//                list.add("TagDemo 2")
+//            }
+//        }
+//
+//        return list
+//    }
 
     private fun getDatabase() {
         database.child(resources.getString(R.string.articles_table)).orderByChild("id")
